@@ -21,6 +21,7 @@ export function Home() {
         }
         history.push('/rooms/new');
     }
+
     return (
         <div id="page-auth">
             <aside>
